@@ -42,6 +42,3 @@ MySQL is used to store:
 6. Add rs2xml.jar
 7. Run Login.java
 
-## Author
-
-Aman Lakra
